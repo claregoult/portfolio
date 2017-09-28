@@ -1,4 +1,5 @@
 name: Clare Goult
 markdown: redcarpet
+permalink: pretty
 # highlighter: pygments.rb # or rouge or null
-exclude: ["node_modules", "gulpfile.js", "package.json"]
+exclude: ["node_modules", "gulpfile.js", "package.json", "README.md"]

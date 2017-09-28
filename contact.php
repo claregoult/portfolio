@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Contact
 description: SEO Description
 lang: en_GB
 ---
