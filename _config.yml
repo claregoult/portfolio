@@ -1,5 +1,6 @@
 name: Clare Goult
 markdown: redcarpet
 permalink: pretty
+baseurl: portfolio/
 # highlighter: pygments.rb # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json", "README.md"]
