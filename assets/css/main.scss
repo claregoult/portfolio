@@ -1,5 +1,12 @@
 @import "0-tools/bourbon/bourbon";
-@import "0-tools/normalize";
+// @import "0-tools/normalize";
 // @import "reset";
 //@import "syntax";
 
+@import "config/reset";
+
+@import "config/global";
+@import "config/header";
+@import "config/grid";
+
+@import "config/typography";
