@@ -30,7 +30,7 @@
         <link rel="apple-touch-icon" href="icon.png">
         <!-- Place favicon.ico in the root directory -->
 
-        <link rel="stylesheet" href="/portfolio/assets/css/main.css">
+        <link rel="stylesheet" href="/assets/css/main.css">
 
         <link rel="dns-prefetch" href="//fonts.googleapis.com">
 
@@ -48,25 +48,25 @@
         <header class="global">
           <div class="content-container clear">
             <a href="http://focuslabllc.com/" class="logo">
-              <img src="/portfolio/assets/img/logo_black.min.svg" alt="Clare Goult">
+              <img src="/assets/img/logo_black.min.svg" alt="Clare Goult">
             </a>
             
             <nav class="small_nav">
               <ul>
                 <li>
-                  <a href="/portfolio/work.html">Work</a>
+                  <a href="/work.html">Work</a>
                 </li>
                 <li>
-                  <a href="/portfolio/services.html">Services</a>
+                  <a href="/services.html">Services</a>
                 </li>
                 <li>
-                  <a href="/portfolio/about.html">About</a>
+                  <a href="/about.html">About</a>
                 </li>
                 <li>
-                  <a href="/portfolio/blog.html">Blog</a>
+                  <a href="/blog.html">Blog</a>
                 </li>
                 <li>
-                  <a href="/portfolio/contact.html">Contact</a>
+                  <a href="/contact.html">Contact</a>
                 </li>
               </ul>
               <a href="#" class="nav_toggle">
@@ -76,23 +76,23 @@
             </nav>
             <nav class="full_nav">
               <a href="#" class="logo">
-                <img src="/portfolio/assets/img/logo_black.min.svg" alt="Clare Goult">
+                <img src="/assets/img/logo_black.min.svg" alt="Clare Goult">
               </a>
               <ul>
                 <li>
-                  <a href="/portfolio/work.html">Work</a>
+                  <a href="/work.html">Work</a>
                 </li>
                 <li>
-                  <a href="/portfolio/services.html">Services</a>
+                  <a href="/services.html">Services</a>
                 </li>
                 <li>
-                  <a href="/portfolio/about.html">About</a>
+                  <a href="/about.html">About</a>
                 </li>
                 <li>
-                  <a href="/portfolio/blog.html">Blog</a>
+                  <a href="/blog.html">Blog</a>
                 </li>
                 <li>
-                  <a href="/portfolio/contact.html">Contact</a>
+                  <a href="/contact.html">Contact</a>
                 </li>
               </ul>
               <a href="#" class="nav_toggle">
