@@ -1,4 +1,4 @@
 name: Clare Goult
-baseurl: /portfolio
+baseurl: /
 # highlighter: pygments.rb # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json", "README.md"]
