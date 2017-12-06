@@ -1,0 +1,38 @@
+---
+layout: default
+title: Blog
+description: SEO Description
+lang: en_GB
+---
+<section class="main-content">
+
+<div class="content-container indented">
+<h1 class="page-title"> {{page.title}} </h1>
+<div class="blog-posts">
+  {% for post in paginator.posts %}
+<section class="section">
+
+      <h2 class="section-title">
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </h2>
+      <span class="post-meta">{{ post.date | date_to_long_string }}</span>
+
+      {{ post.excerpt }}
+    </section>
+  {% endfor %}
+
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">&laquo; Previous</a>
+    {% endif %}
+
+    <span class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next &raquo;</a>
+    {% endif %}
+  </div>
+
+</div>
+</div>
+</section>

@@ -1,0 +1,22 @@
+figure {
+	margin:0;
+}
+
+@include mq(tablet) {
+	figure {
+		padding:5px;
+		padding-bottom:10px;
+width: 100%;
+	}
+}
+
+img {
+max-width: 100%;
+}
+
+
+video {
+	max-width: 100%;	
+	margin: 0 auto;
+	display: block;
+}

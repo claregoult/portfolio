@@ -29,15 +29,31 @@
         <link rel="manifest" href="site.webmanifest">
         <link rel="apple-touch-icon" href="icon.png">
         <!-- Place favicon.ico in the root directory -->
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.0/slick/slick.css"/>
 
         <link rel="stylesheet" href="/assets/css/main.css">
 
-        <link rel="dns-prefetch" href="//fonts.googleapis.com">
 
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+<!-- <link rel="stylesheet" type="text/css" href="/assets/slick/slick-theme.css"/> -->
+
+
+
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+
+
+<script src="//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
+<script>
+  WebFont.load({
+    google: {
+      families: ['Open Sans:300,300i,400,400i,600,600i,700,700i,800,800i', 'Inconsolata']
+    }
+  });
+</script>
+
+
 
   </head>
-    <body>
+    <body class=" page">
         <!--[if lte IE 9]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
         <![endif]-->
@@ -45,59 +61,37 @@
         <!-- Add your site or application content here -->
 
       <div class="page-wrap">
-        <header class="global">
-          <div class="content-container clear">
-            <a href="http://focuslabllc.com/" class="logo">
+        <header class="header">
+          <div class="content-container clearfix">
+            <a href="/" class="logo">
               <img src="/assets/img/logo_black.min.svg" alt="Clare Goult">
             </a>
+            <div class="menu-button-wrapper">
+              <a href="#" class="menu-button" id="menuButton">
+                <span class="menu-icon"></span>
+                <span>Menu</span>
+              </a>
+              </div>
             
-            <nav class="small_nav">
+            <nav class="primary-navigation">
+
               <ul>
                 <li>
-                  <a href="/work.html">Work</a>
+                  <a class="" href="/work.html">Work</a>
                 </li>
                 <li>
-                  <a href="/services.html">Services</a>
+                  <a class="" href="/about.html">About</a>
                 </li>
                 <li>
-                  <a href="/about.html">About</a>
+                  <a class="" href="/services.html">Services</a>
                 </li>
                 <li>
-                  <a href="/blog.html">Blog</a>
+                  <a class="" href="/blog/index.html">Blog</a>
                 </li>
                 <li>
-                  <a href="/contact.html">Contact</a>
+                  <a class="" href="/contact.html">Contact</a>
                 </li>
               </ul>
-              <a href="#" class="nav_toggle">
-                <span>Open Navigation
-                </span>
-              </a>
-            </nav>
-            <nav class="full_nav">
-              <a href="#" class="logo">
-                <img src="/assets/img/logo_black.min.svg" alt="Clare Goult">
-              </a>
-              <ul>
-                <li>
-                  <a href="/work.html">Work</a>
-                </li>
-                <li>
-                  <a href="/services.html">Services</a>
-                </li>
-                <li>
-                  <a href="/about.html">About</a>
-                </li>
-                <li>
-                  <a href="/blog.html">Blog</a>
-                </li>
-                <li>
-                  <a href="/contact.html">Contact</a>
-                </li>
-              </ul>
-              <a href="#" class="nav_toggle">
-                <span>Close Navigation</span>
-              </a>
             </nav>
           </div>
       </header>
@@ -108,45 +102,96 @@
 						<div class="content-container">
 							<h1 class="text-center"><span class="text-left tagline"><span class="br">Taking your business</span><span class="br"> to the next level with</span> <span class="br">beautiful branding.</span></span></h1>
 						</div>
-					<div class="text-center">
-						<a href="#" class="button primary">View Portfolio</a>
-					</div>
 				</div>
 				</header>
 				
 					<div class="content-container indented">
-					<div class="section">
+										<div class="section">
 
 						<div class="introduction">
-							<h2 class="emphasis small">Hi there, I'm Clare Goult</h2>
-
-						<p>I work with businesses and brands that I'm passionate about to create a better experience for their customers by using a goal-orientated design process.	</p>			
-
-							<h2 class="emphasis small">Some of the design services I offer include:</h2>
-
-						<ul>
-						<li>Logo / Identity Design</li>
-						<li>Web Design</li>
-						<li>Branding</li>
+						<ul class="cta-wrap">
+							<li>
+								<a href="/about.html" class="cta">About Clare</a></li>
+							<li>
+								<a href="/work.html" class="cta">View Work</a></li>
 						</ul>
-					</div>
-						<div class="text-center">
-						<a href="#" class="button primary">About and Services</a>
-						</div>
-						</div>
+						<p>I work with businesses and brands that I'm passionate about to create a better experience for their customers by using a goal-orientated design&nbsp;process.	</p>			
+
+
+      
+
+
+
+</div>
+</div>
+</div>
+<div class="home services">
+							<h2 class="section-title">Services</h2>	
+<ul class="cta-wrap">
+							<li>
+								<a href="/about.html" class="cta">Explore Work</a></li>
+						</ul>
+<div class="menu">
+	<a href="#" data-id="1" class="active">Logo Design</a>
+	<a href="#" data-id="2">Web Design</a>
+	<a href="#" data-id="3">Identity Design</a>
+</div>
+
+																	
+
+    <div class="slideshow">
+
+        <div style="background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url('/assets/img/logo-process.jpg') #000 bottom center/cover no-repeat" class="service-image background-position-center absolute background-size-cover">
+<div>
+<h3><span class="title">Logo Design</span></h3>
+<p>A logo is your identity, usually consisting of a word and/or icon. I create logos that are memorable and effectively communicate the brand message.</p>
+</div>
+</div>
+
+        <div style="background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url('/assets/img/desk-by-Brennan-Burling-unsplash.jpg') #000 bottom center/cover no-repeat;" class="service-image background-position-center absolute background-size-cover" title="Brennan Burling - unsplash"
+>
+<div>
+<h3><span class="title">Web Design</span></h3>
+<p>Nowadays a strong online presence is more important than ever. I create websites that for businesses that work beautifully with every click.</p>
+</div>
+</div>
+
+        <div style="background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url('/assets/img/work-by-NordWood-Themes-unslpash.jpg') #000 bottom center/cover no-repeat" class="service-image background-position-center absolute background-size-cover" title="NordWood Themes - unsplash">
+<div>
+<h3><span class="title">Identity Design</span></h3>
+<p>An identity is more than a logo or even a website. It's your image, how you're presented to the world. I work with businesses to create an identity that is memorable.</p>
+</div>
+</div>
+
+</div>
+
+</div>
+
+
+<div class="content-container indented">
+<div class="section">
 
 						
-					<div class="section">
+					<div class="section featured">
 						
 						<h3 class="section-heading">Featured Work</h3>
 
-						<a href="#" class="featured"><img class="thumbnail" src="assets/img/nick-stead-thumbnail.jpg" alt="Nick Stead Case Study" /></a>
+						<ul class="cta-wrap">
+							<li>
+								<a href="/work.html" class="cta">Explore Work</a></li>
+						</ul>
+<!-- 						<h3 class="section-heading">Add Hover To Image</h3>
+ --><div class="featured-work img-overlay">
+						<a href="/work/nick-stead.html" class="featured"><img class="thumbnail" src="/assets/img/portfolio/nick-stead/nick-stead-thumbnail.jpg" alt="Nick Stead Case Study" /></a>
+
+<div class="info_contain"><div class="project_info"><h3><a href="/work/nick-stead.html">Nick Stead</a></h3><p class="small">Author of the Hybrid Series and other dark works.</p></div></div>	
+</div>					
 
 
 						
-						<div class="text-center clear">
-						<a href="#" class="button primary">View Portfolio</a>
-						</div>
+
+
+
 					</div>
 						
 					<div class="section">
@@ -161,25 +206,35 @@
 						<img class="testimonial avatar" src="assets/img/nick-stead-avatar.jpg" alt="Photograph of Nick Stead" />
 					</div>
 						
+				</div>
+<div class="section">
+					<div class="content-container ">
+
+<nav class="articles"><div class="contain"><ul><li><div class="content">
+<a href="http://focuslabllc.com/digest/2016-recap"></a><p class="categories">
+Culture, Business</p><h3>2016 Recap</h3><h6>By Erik</h6></div></li><li><div class="content">
+<a href="http://focuslabllc.com/digest/brand-strategy-a-birds-eye-view"></a><p class="categories">
+Branding, Strategy</p><h3>Brand Strategy: A Bird’s Eye View</h3><h6>By Summer Teal Simpson Hitch</h6></div></li></ul></div></nav>
+</div>
+</div>
+
 						
 <div class="section">
 						
 						<div class="text-center">
-						<h4 class="emphasis">
+						<h4 class="emphasis like-h1">
 							<span class="text-left">
-								Make a great<span class="br"> first impression</span>
-							</span>
+								Do you want to make a<span class="br"> good first impression?</span></span>
 						</h4>
 
-						<a href="#" class="button primary contact">Let's Talk</a>
+						<a href="/contact.html" class="button primary contact">Let's Talk</a>
 						</div>
 </div>
 						
-				</div>
 				
 				
 			</section>
-				
+				</div></section><!--resolve-->
 			
 			
 
@@ -199,9 +254,25 @@
 
       
 <!--      <script src="js/vendor/modernizr-.min.js"></script>-->
-        <script src="https://code.jquery.com/jquery.min.js" crossorigin="anonymous"></script>
-        <script src="assets/js/plugins.js"></script>
-        <script src="assets/js/main-min.js"></script>
+        <script src="//code.jquery.com/jquery.min.js" crossorigin="anonymous"></script>
+
+<script type="text/javascript" src="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.0/slick/slick.js"></script>
+
+
+        <script src="/assets/js/plugins.js"></script>
+        <script src="/assets/js/main.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/balance-text/3.2.0/balancetext.min.js" crossorigin="anonymous"></script>
+
+<script>
+var menuButton = document.getElementById('menuButton');
+var bodyElement = document.body;
+menuButton.addEventListener('click', function (e) {
+    menuButton.classList.toggle('is-active');
+    bodyElement.classList.toggle('nav--open');
+    e.preventDefault();
+});
+</script>
 
       
         <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
@@ -209,7 +280,7 @@
             window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
             ga('create','UA-XXXXX-Y','auto');ga('send','pageview')
         </script>
-        <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+        <script src="//www.google-analytics.com/analytics.js" async defer></script>
 
   </body>
 </html>

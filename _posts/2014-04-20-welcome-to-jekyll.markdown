@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+author: "Clare"
+meta: "welcome to the thing with the thing"
 date:   2014-04-20 09:11:03
 categories: jekyll update
 ---

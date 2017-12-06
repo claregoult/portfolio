@@ -1,0 +1,63 @@
+
+form {
+  display: block;
+
+}
+
+
+form fieldset legend {
+  margin-bottom: 20px; 
+  margin-left:0;
+  margin-right: 0;
+}
+
+form label, form input, form textarea {
+  display: block; }
+
+form label {
+  margin-bottom: 20px; }
+
+form input, form textarea {
+  margin-top: 5px;
+  width: 100%;
+  min-height: 30px;
+  padding: 10px;
+  outline: none;
+  border: 1px solid black; }
+
+form input:focus, form textarea:focus {
+  border-color: #F8D43C; }
+
+form textarea {
+  min-height: 200px; }
+
+form .button {
+  @include font-weight(bold);
+  letter-spacing: 2px;
+  border: none;
+  margin-top:20px;
+  margin-bottom:20px;
+@include mq(tablet) {
+  margin-top: 40px; 
+  margin-bottom: 40px; 
+}
+
+}
+label {
+  @include font-weight(bold);
+}
+
+
+fieldset {
+  padding:0;
+  border: none;
+  outline: none;
+}
+
+legend.section-title {
+  margin: 0;
+  text-align: left;
+@include mq(tablet){
+  margin-bottom:20px;
+ }
+}

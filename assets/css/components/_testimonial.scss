@@ -1,0 +1,37 @@
+.testimonial-mouse-type-wrap {
+  padding-bottom: 30px; }
+
+.testimonial-mouse-type-wrap::after {
+  content: "";
+  width: 35px;
+  height: 5px;
+  background: #F8D43C;
+  position: relative;
+  bottom: -15px;
+  left: 0;
+  display: block; }
+
+.testimonial-heading {
+  margin-bottom: 15px; }
+
+.testimonial-mouse-type {
+  display: block;
+  font-size: 0.75em; }
+
+.testimonial-url a {
+  text-decoration: none;
+  font-weight: 100;
+  color: #666; }
+
+
+
+.testimonial p {
+  font-size: 1.1rem;
+  font-size: 28px;
+  font-weight: 400; 
+
+margin:0;
+padding:0;
+}
+
+  .testimonial {padding:0; margin:auto;}

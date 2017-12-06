@@ -5,12 +5,28 @@
 $brandColor: #F8D43C;
 
 
-
-
 *, ::after, ::before {
     box-sizing: border-box;
 }
 
+a, ul li a {
+    color:$brandColor;
+    text-decoration: none;
+    font-weight:800;
+    transition: all 0.25s ease;
+}
+footer ul li a {font-weight:100; color:black;}
+
+a:hover {
+    transition: all 0.25s ease;
+    
+    text-decoration: underline;
+}
+
+.button:hover {
+        text-decoration: none;
+
+}
 .clear:after, .clear:before {
     display: table;
 }

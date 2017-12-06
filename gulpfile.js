@@ -10,6 +10,7 @@ var messages = {
     jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
 };
 
+var cleanCSS = require('gulp-clean-css');
 
 
 
@@ -79,8 +80,10 @@ gulp.task('sass', function () {
         .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true }))
         .pipe(gulp.dest('_site/assets/css'))
         .pipe(browserSync.reload({stream:true}))
+        .pipe(cleanCSS({compatibility: 'ie8'}))        
         .pipe(gulp.dest('assets/css'));
 });
+
 
 
 
@@ -92,7 +95,8 @@ gulp.task('sass', function () {
  */
 gulp.task('watch', function () {
     gulp.watch('assets/css/**', ['sass']);
-    gulp.watch(['*.html', '_layouts/*.html', '_includes/*', '_posts/*'], ['jekyll-rebuild']);
+        // gulp.watch('assets/js/**', ['sass']);
+gulp.watch(['*.html', '_layouts/*.html', '_includes/*', '_posts/*','assets/js/**','assets/img/**','blog/*','work/*'], ['jekyll-rebuild']);
     gulp.watch('_pugfiles/*.pug', ['pug']);
 
 });

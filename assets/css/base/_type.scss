@@ -1,0 +1,465 @@
+/*------------------------------------*\
+    #TYPE
+\*------------------------------------*/
+
+/**
+ * Typographical base selectors.
+ */
+
+html {
+   font-size: $global-font-size;
+}
+
+
+
+body {
+    @include font-weight(light);
+    font-family: $font-stack;
+    @include font-size(floor($global-font-size/1.25));
+  @include mq(desktop) {
+    @include font-size($global-font-size);
+  }
+}
+
+
+
+/**
+ * Headings 1–6.
+ */
+ 
+@include headings() {
+    @include font-weight(extra-bold);
+    margin: 0;
+}
+    
+
+
+
+/*
+
+- Title and the CTA text (bottom of pg) on home page are Extra Bold
+- Services links are Extra Bold
+- Section titles, CTA links, numeral and name on testimonial are Bold
+- Body content and testimonial link is Light 
+- Nav and testimonial text on home is Normal/Regular
+
+
+
+
+
+
+
+
+
+
+/**
+ * Emboldened elements.
+ */
+a,
+strong,
+b,
+dt {
+    @include font-weight(bold);
+}
+dd {margin:0;}
+
+
+table {
+    width: 100%;
+    margin-bottom: 1rem;
+    border-radius: 0;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+
+table tbody, table tfoot, table thead {
+    border: 1px solid #f1f1f1;
+    background-color: #fefefe;
+}
+
+
+table tfoot tr, table thead tr {
+    background: transparent;
+}
+table tbody tr:nth-child(even) {
+    background-color: #f1f1f1;
+}
+table tfoot,
+table thead {
+    background: #f8f8f8;
+    color: #0a0a0a;
+}
+
+
+
+
+table tfoot td, table tfoot th, table thead td, table thead th {
+    padding: .5rem .625rem .625rem;
+    font-weight: 700;
+    text-align: left;
+}
+
+
+
+table tbody td, table tbody th {
+    padding: .5rem .625rem .625rem;
+}
+
+/**
+ * Italics.
+ */
+em,
+var,
+cite,
+dfn,
+address {
+  font-style: italic;
+}
+
+/**
+ * override <i> styling because you should be using <em> for italics.
+ */
+i {
+  font-style: normal;
+}
+
+small {
+  @include font-size($global-font-size/1.25);
+}
+
+
+sup {
+ vertical-align: super;
+}
+
+sub {
+ vertical-align: sub;
+}
+
+ins {
+  text-decoration: underline;
+  text-decoration-skip: ink;
+  text-decoration-style: solid; 
+}
+
+del {
+  text-decoration: strike;
+}
+
+
+
+
+
+
+//     // 
+// h1 {
+//     @include font-size(48px);
+//     @include font-weight(extra-bold);
+
+// }
+
+// h2 {
+//      @include font-size(30px);
+// }
+
+// h3 {
+//      @include font-size(20px);
+// }
+
+// blockquote {
+//     font-size:48px;
+//     font-weight:800;
+// }
+
+
+
+ul {
+  list-style-type: disc;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+
+nav li {
+  display: block;
+
+  @include mq(tablet) {
+    display: inline-block;
+  }
+}
+
+
+$h6-font-size-desktop: $global-font-size;
+$h5-font-size-desktop: $global-font-size*1.15;
+$h4-font-size-desktop: $global-font-size*1.25;
+$h3-font-size-desktop: $global-font-size*1.5;
+$h2-font-size-desktop: $global-font-size*2;
+$h1-font-size-desktop: $global-font-size*2.5;
+
+$h6-font-size: floor($global-font-size/1.25);
+$h5-font-size: floor($global-font-size/1.25*1.15);
+$h4-font-size: floor($global-font-size/1.25*1.25);
+$h3-font-size: floor($global-font-size/1.25*1.5);
+$h2-font-size: floor($global-font-size/1.25*2);
+$h1-font-size: floor($global-font-size/1.25*2.5);
+
+
+
+$h1-font-size: floor($global-font-size/1.25*1.5);
+
+
+
+
+
+
+
+
+
+
+h1,
+.like-h1,
+.blockquote {
+  @include font-size($h1-font-size); /* 2x body copy size = 32px */ 
+
+  @include mq(desktop) {
+    @include font-size($h1-font-size-desktop); /* 2x body copy size = 32px */ 
+  }
+}
+
+h2,
+.like-h2 {
+  @include font-size($h2-font-size); /* 2x body copy size = 32px */ 
+
+  @include mq(desktop) {
+    @include font-size($h2-font-size-desktop); /* 2x body copy size = 32px */ 
+  }
+}
+
+h3,
+.like-h3 {
+  @include font-size($h3-font-size); /* 2x body copy size = 32px */ 
+
+  @include mq(desktop) {
+    @include font-size($h3-font-size-desktop); /* 2x body copy size = 32px */     
+  }
+}
+
+h4,
+.like-h4 {
+  @include font-size($h4-font-size); /* 2x body copy size = 32px */ 
+
+  @include mq(desktop) {
+    @include font-size($h4-font-size-desktop); /* 2x body copy size = 32px */     
+  }
+}
+
+h5,
+.like-h5 {
+  @include font-size($h5-font-size); /* 2x body copy size = 32px */ 
+
+  @include mq(desktop) {
+    @include font-size($h5-font-size-desktop); /* 2x body copy size = 32px */     
+  }
+}
+
+h6,
+.like-h6 {
+  @include font-size($h6-font-size); /* 1.125x body copy size = 18px */
+  @include font-weight(bold);
+
+  @include mq(desktop) {
+    @include font-size($h6-font-size-desktop); /* 2x body copy size = 32px */     
+  }
+}
+
+
+q {
+  display: inline;
+  &::before {
+    content: open-quote;
+  }
+  &::after {
+    content: close-quote;
+  }
+}
+
+abbr {
+    cursor: help;
+    border-bottom: 1px dotted $bodyColour;
+}
+
+
+/**
+ * Code-like elements.
+ */
+pre,code, kbd, samp {
+    color: #bd4147;
+    font-family: Inconsolata, Monaco, Consolas, "Courier New", Courier, monospace;
+    font-style: normal;
+    background-color: darken($backgroundColour,5%);
+    padding: $spacing-unit--small;
+    border-radius: $border-radius;
+}
+
+kbd {
+  background-color: darken($backgroundColour,75%);
+  color:$backgroundColour;
+}
+
+
+samp {
+  background: none;
+  color:$bodyColour;
+}
+
+
+pre {
+  display: inline-block;
+    white-space: pre;
+    word-wrap: normal;
+    overflow: auto;
+    padding: $spacing-unit--small*4;
+}
+
+
+
+blockquote {
+  margin: 0 $spacing-unit--small*4;
+  @include font-weight(semi-bold);
+}
+
+
+@include headings() {
+  margin: $spacing-unit--small*2 auto;  
+}
+
+
+.like-h1,
+.like-h2 {
+  margin: $spacing-unit--small*2 auto;  
+}
+
+.blockquote,
+.like-h1,
+.like-h2,
+.like-h3,
+.like-h4,
+.like-h5,
+.like-h6 {
+  @include font-weight(extra-bold);
+}
+
+
+blockquote {
+  @include font-size($global-font-size);
+}
+
+p,
+blockquote {
+  padding: $spacing-unit--small*2 0;
+  & cite {
+    display: block;
+  @include font-size($global-font-size/1.25);
+  text-align: right;
+  color: lighten($bodyColour,50%);
+  }
+}
+
+
+/**
+ * Figures.
+ *
+ * 1. Outdent figures by an arbitrary amount at the relevant viewport size.
+ * 2. Reindent figcaptions.
+ */
+figure {
+
+    @media screen and (min-width: 1380px) {
+        margin-left: -128px; /* [1] */
+    }
+
+    > img {
+        // border-radius: $base-round;
+    }
+
+}
+
+    figcaption {
+        @include font-size(12px);
+
+        @media screen and (min-width: 1380px) {
+            margin-left: 128px; /* [2] */
+        }
+
+    }
+
+
+
+
+
+/**
+ * Horizontal rules.
+ */
+hr {
+    display: block;
+    border: none;
+    border-bottom: 1px solid lighten($bodyColour,75%);
+    padding-top: $spacing-unit--small - 1px;
+    margin-bottom: $spacing-unit--small - 1px;
+
+}
+
+
+
+
+
+/**
+ * Highlighted text.
+ */
+mark {
+background: $brandColour;
+    pre & {
+        background: none;
+        border-bottom: 1px solid;
+        color: inherit;
+    }
+
+}
+
+
+/**
+ * Text-alignment.
+ */
+.text-banner {
+    text-align: center;
+}
+
+
+
+
+
+/**
+ * Inserted and deleted text.
+ */
+del {
+  opacity: 0.75;
+}
+
+ins {
+  // border-bottom: none;
+  // background-color: $color-hilite;
+}

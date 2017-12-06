@@ -1,0 +1,29 @@
+.button {
+  background: #F8D43C;
+  text-decoration: none;
+  color: black;
+  font-size: 1rem;
+  padding: 20px;
+  display: inline-block;
+  margin: 0 auto;
+  text-align: center;
+  transition: all .3s ease;
+  box-shadow: 1px 1px 5px #ae8e06; }
+
+.button:hover {
+  color: black;
+  background-color: #fadf6d;
+  box-shadow: 1px 1px 5px #ae8e06; }
+
+.button:active {
+  color: white;
+  background-color: black;
+  box-shadow: 1px 1px 5px black; }
+
+
+@include mq($until: tablet){
+  .button {
+    font-size: $global-font-size / 1.5;
+    padding:15px;
+  }
+}

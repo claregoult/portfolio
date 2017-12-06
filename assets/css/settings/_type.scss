@@ -1,0 +1,55 @@
+$font-stack: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+
+
+$global-font-size:    20px !default;
+$global-line-height:  32px !default;
+
+
+
+
+
+//20px
+$nav: round($global-font-size/1.3);
+//50px
+$emphasis: round($global-font-size*3.15);
+//14px
+$cta-small-link: round($global-font-size/1.15);
+//28px
+$big-paragraph-and-h2-service: round($global-font-size*1.75);
+//128px
+$big-numeral: 128px;
+
+//15px
+$testimonial-meta: 15px;
+//16px
+$home-blog: 16px;
+//10px
+$home-blog2: 10px;
+
+$figcap: 12px;
+
+// 56px
+$home-work-hover-title: 56px;
+//70px
+$work-hover-title: 70px;
+//12px
+$work-hover-desc: 12px;
+
+
+
+
+
+//48px
+$h1: round($global-font-size*3);
+//30px
+$h2: round($global-font-size*1.9);
+//30px
+$h3: $h2;
+//20px
+$h4: round($global-font-size*1.25);
+
+
+
+
+// h1,h2 {font-size: $cta-small-link !important;}
