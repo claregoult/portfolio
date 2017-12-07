@@ -33,7 +33,7 @@
 <meta name="twitter:creator" content="@goultDesign" />
 <meta name="twitter:title" content="" />
 <meta name="twitter:description" content="SEO Description" />
-<meta property="twitter:image:src" content="">
+<meta property="twitter:image:src" content="/portfolio">
 
 <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/blind.com\/","name":"Blind","potentialAction":{"@type":"SearchAction","target":"https:\/\/blind.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
       
