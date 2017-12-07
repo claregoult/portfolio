@@ -14,14 +14,13 @@
 <meta name="robots" content="noodp"/>
 {% endif %}
 
-
 <link rel="canonical" href="{{site.url}}{{site.baseurl}}{{page.url}}" />
 
 <meta property="og:locale" content="en_GB" />
 
-{% if page.path == "index.html" %}
+{% if page.url == "/" %}
 <meta property="og:type" content="website" />
-{% elseif page.path "/blog.html" %}
+{% elseif page.url == "blog" %}
 <meta property="og:type" content="website" />
 {% else %}
 <meta property="og:type" content="article" />
