@@ -13,7 +13,7 @@
 <link rel="canonical" href="/portfolio/contact.php" />
 
 <meta property="og:locale" content="en_GB" />
-
+/contact.php
 
 <meta property="og:type" content="article" />
 
