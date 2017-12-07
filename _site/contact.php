@@ -110,8 +110,6 @@
     <h1>hello!!!</h1>
 
 
-
-
 </div>
         <footer class="footer content-container text-center">
           <p>&copy; 2017 Clare Goult</p>
