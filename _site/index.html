@@ -34,10 +34,6 @@
         <link rel="stylesheet" href="/portfolio/assets/css/main.css">
 
 
-<!-- <link rel="stylesheet" type="text/css" href="/portfolio/assets/slick/slick-theme.css"/> -->
-
-
-
   <link rel="dns-prefetch" href="//fonts.googleapis.com">
 
 
