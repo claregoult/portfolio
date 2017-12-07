@@ -1,6 +1,7 @@
 var gulp        = require('gulp');
 var browserSync = require('browser-sync');
 var sass        = require('gulp-sass');
+var cleanCSS    = require('gulp-clean-css');
 var prefix      = require('gulp-autoprefixer');
 var cp          = require('child_process');
 var pug         = require('gulp-pug');
@@ -10,7 +11,6 @@ var messages = {
     jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
 };
 
-var cleanCSS = require('gulp-clean-css');
 
 
 
@@ -80,7 +80,7 @@ gulp.task('sass', function () {
         .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true }))
         .pipe(gulp.dest('_site/assets/css'))
         .pipe(browserSync.reload({stream:true}))
-        .pipe(cleanCSS({compatibility: 'ie8'}))        
+        .pipe(cleanCSS())        
         .pipe(gulp.dest('assets/css'));
 });
 
