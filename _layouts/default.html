@@ -8,13 +8,17 @@
         <title>{{page.seotitle}}</title>
   <link rel="profile" href="http://gmpg.org/xfn/11" />
 
-{% if page.url == "/" %}
+<meta itemprop="url" content="{{site.url}}{{site.baseurl}}{{page.url}}}"/>
 <meta name="description" content="{{page.description}}"/>
 
+{% if page.url == "/" %}
 <meta name="robots" content="noodp"/>
 {% endif %}
 
 <link rel="canonical" href="{{site.url}}{{site.baseurl}}{{page.url}}" />
+
+
+<meta property="article:publisher" content="https://facebook.com/goultDesign">
 
 <meta property="og:locale" content="en_GB" />
 {{page.url}}
@@ -23,16 +27,17 @@
 {% else %}
 <meta property="og:type" content="article" />
 {% endif %}
-
 <meta property="og:title" content="{{page.seotitle}}" />
-
 <meta property="og:description" content="{{page.description}}" />
-
 <meta property="og:url" content="{{site.baseurl}}{{page.url}}" />
 <meta property="og:site_name" content="{{site.name}}" />
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:description" content="{{page.description}}" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@goultDesign" />
+<meta name="twitter:creator" content="@goultDesign" />
 <meta name="twitter:title" content="{{page.seotitle}}" />
+<meta name="twitter:description" content="{{page.description}}" />
+<meta property="twitter:image:src" content="{{twitterimg}}">
 
 <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/blind.com\/","name":"Blind","potentialAction":{"@type":"SearchAction","target":"https:\/\/blind.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
       
