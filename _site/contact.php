@@ -78,19 +78,19 @@
 
               <ul>
                 <li>
-                  <a class="" href="/portfolio/work">Work</a>
+                  <a class="" href="/portfolio/contact.php">Work</a>
                 </li>
                 <li>
-                  <a class="" href="/portfolio/about">About</a>
+                  <a class="" href="/portfolio/contact.php">About</a>
                 </li>
                 <li>
-                  <a class="" href="/portfolio/services">Services</a>
+                  <a class="" href="/portfolio/contact.php">Services</a>
                 </li>
                 <li>
-                  <a class="" href="/portfolio/blog/index">Blog</a>
+                  <a class="" href="/portfolio/contact.php">Blog</a>
                 </li>
                 <li>
-                  <a class="" href="/portfolio/contact">Contact</a>
+                  <a class="" href="/portfolio/contact.php">Contact</a>
                 </li>
               </ul>
             </nav>
