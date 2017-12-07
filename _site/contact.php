@@ -10,7 +10,7 @@
       
 <meta name="description" content="Brand Strategy Design Consultancy. We align the goals of your organization to the needs of your customers— creating exceptional brand experiences."/>
 <meta name="robots" content="noodp"/>
-<link rel="canonical" href="/contact.php" />
+<link rel="canonical" href="contact.php" />
 <meta property="og:locale" content="en_GB" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Blind – Brand Strategy Design Consultancy. We Help Your Business Grow." />
