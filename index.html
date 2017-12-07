@@ -21,9 +21,9 @@ lang: en_GB
 						<div class="introduction">
 						<ul class="cta-wrap">
 							<li>
-								<a href="{{site.url}}/about.html" class="cta">About Clare</a></li>
+								<a href="{{ page.path | prepend:site.baseurl }}/about.html" class="cta">About Clare</a></li>
 							<li>
-								<a href="{{site.url}}/work.html" class="cta">View Work</a></li>
+								<a href="{{ page.path | prepend:site.baseurl }}/work.html" class="cta">View Work</a></li>
 						</ul>
 						<p>I work with businesses and brands that I'm passionate about to create a better experience for their customers by using a goal-orientated design&nbsp;process.	</p>			
 
@@ -39,7 +39,7 @@ lang: en_GB
 							<h2 class="section-title">Services</h2>	
 <ul class="cta-wrap">
 							<li>
-								<a href="{{site.url}}/about.html" class="cta">Explore Work</a></li>
+								<a href="{{ page.path | prepend:site.baseurl }}/about.html" class="cta">Explore Work</a></li>
 						</ul>
 <div class="menu">
 	<a href="#" data-id="1" class="active">Logo Design</a>
@@ -51,14 +51,14 @@ lang: en_GB
 
     <div class="slideshow">
 
-        <div style="background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url('{{site.url}}/assets/img/logo-process.jpg') #000 bottom center/cover no-repeat" class="service-image background-position-center absolute background-size-cover">
+        <div style="background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url('{{ page.path | prepend:site.baseurl }}/assets/img/logo-process.jpg') #000 bottom center/cover no-repeat" class="service-image background-position-center absolute background-size-cover">
 <div>
 <h3><span class="title">Logo Design</span></h3>
 <p>A logo is your identity, usually consisting of a word and/or icon. I create logos that are memorable and effectively communicate the brand message.</p>
 </div>
 </div>
 
-        <div style="background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url('{{site.url}}/assets/img/desk-by-Brennan-Burling-unsplash.jpg') #000 bottom center/cover no-repeat;" class="service-image background-position-center absolute background-size-cover" title="Brennan Burling - unsplash"
+        <div style="background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url('{{ page.path | prepend:site.baseurl }}/assets/img/desk-by-Brennan-Burling-unsplash.jpg') #000 bottom center/cover no-repeat;" class="service-image background-position-center absolute background-size-cover" title="Brennan Burling - unsplash"
 >
 <div>
 <h3><span class="title">Web Design</span></h3>
@@ -66,7 +66,7 @@ lang: en_GB
 </div>
 </div>
 
-        <div style="background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url('{{site.url}}/assets/img/work-by-NordWood-Themes-unslpash.jpg') #000 bottom center/cover no-repeat" class="service-image background-position-center absolute background-size-cover" title="NordWood Themes - unsplash">
+        <div style="background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url('{{ page.path | prepend:site.baseurl }}/assets/img/work-by-NordWood-Themes-unslpash.jpg') #000 bottom center/cover no-repeat" class="service-image background-position-center absolute background-size-cover" title="NordWood Themes - unsplash">
 <div>
 <h3><span class="title">Identity Design</span></h3>
 <p>An identity is more than a logo or even a website. It's your image, how you're presented to the world. I work with businesses to create an identity that is memorable.</p>
@@ -88,13 +88,13 @@ lang: en_GB
 
 						<ul class="cta-wrap">
 							<li>
-								<a href="{{site.url}}/work.html" class="cta">Explore Work</a></li>
+								<a href="{{ page.path | prepend:site.baseurl }}/work.html" class="cta">Explore Work</a></li>
 						</ul>
 <!-- 						<h3 class="section-heading">Add Hover To Image</h3>
  --><div class="featured-work img-overlay">
-						<a href="{{site.url}}/work/nick-stead.html" class="featured"><img class="thumbnail" src="{{site.url}}/assets/img/portfolio/nick-stead/nick-stead-thumbnail.jpg" alt="Nick Stead Case Study" /></a>
+						<a href="{{ page.path | prepend:site.baseurl }}/work/nick-stead.html" class="featured"><img class="thumbnail" src="{{ page.path | prepend:site.baseurl }}/assets/img/portfolio/nick-stead/nick-stead-thumbnail.jpg" alt="Nick Stead Case Study" /></a>
 
-<div class="info_contain"><div class="project_info"><h3><a href="{{site.url}}/work/nick-stead.html">Nick Stead</a></h3><p class="small">Author of the Hybrid Series and other dark works.</p></div></div>	
+<div class="info_contain"><div class="project_info"><h3><a href="{{ page.path | prepend:site.baseurl }}/work/nick-stead.html">Nick Stead</a></h3><p class="small">Author of the Hybrid Series and other dark works.</p></div></div>	
 </div>					
 
 
@@ -137,7 +137,7 @@ Branding, Strategy</p><h3>Brand Strategy: A Bird’s Eye View</h3><h6>By Summer 
 								Do you want to make a<span class="br"> good first impression?</span></span>
 						</h4>
 
-						<a href="{{site.url}}/contact.html" class="button primary contact">Let's Talk</a>
+						<a href="{{ page.path | prepend:site.baseurl }}/contact.html" class="button primary contact">Let's Talk</a>
 						</div>
 </div>
 						

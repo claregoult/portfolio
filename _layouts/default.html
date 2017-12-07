@@ -34,7 +34,7 @@
         <link rel="stylesheet" href="{{ page.path | prepend:site.baseurl }}/assets/css/main.css">
 
 
-<!-- <link rel="stylesheet" type="text/css" href="{{site.url}}/assets/slick/slick-theme.css"/> -->
+<!-- <link rel="stylesheet" type="text/css" href="{{ page.path | prepend:site.baseurl }}/assets/slick/slick-theme.css"/> -->
 
 
 
@@ -63,8 +63,8 @@
       <div class="page-wrap">
         <header class="header">
           <div class="content-container clearfix">
-            <a href="{{site.url}}/" class="logo">
-              <img src="{{site.url}}/assets/img/logo_black.min.svg" alt="Clare Goult">
+            <a href="{{ page.path | prepend:site.baseurl }}/" class="logo">
+              <img src="{{ page.path | prepend:site.baseurl }}/assets/img/logo_black.min.svg" alt="Clare Goult">
             </a>
             <div class="menu-button-wrapper">
               <a href="#" class="menu-button" id="menuButton">
@@ -77,19 +77,19 @@
 
               <ul>
                 <li>
-                  <a class="{% if page.url == '/work.html' %} active {% endif %}" href="{{site.url}}/work.html">Work</a>
+                  <a class="{% if page.url == '/work.html' %} active {% endif %}" href="{{ page.path | prepend:site.baseurl }}/work.html">Work</a>
                 </li>
                 <li>
-                  <a class="{% if page.url == '/about.html' %} active {% endif %}" href="{{site.url}}/about.html">About</a>
+                  <a class="{% if page.url == '/about.html' %} active {% endif %}" href="{{ page.path | prepend:site.baseurl }}/about.html">About</a>
                 </li>
                 <li>
-                  <a class="{% if page.url == '/services.html' %} active {% endif %}" href="{{site.url}}/services.html">Services</a>
+                  <a class="{% if page.url == '/services.html' %} active {% endif %}" href="{{ page.path | prepend:site.baseurl }}/services.html">Services</a>
                 </li>
                 <li>
-                  <a class="{% if page.url == '/blog/index.html' %} active {% endif %}" href="{{site.url}}/blog/index.html">Blog</a>
+                  <a class="{% if page.url == '/blog/index.html' %} active {% endif %}" href="{{ page.path | prepend:site.baseurl }}/blog/index.html">Blog</a>
                 </li>
                 <li>
-                  <a class="{% if page.url == '/contact.html' %} active {% endif %}" href="{{site.url}}/contact.html">Contact</a>
+                  <a class="{% if page.url == '/contact.html' %} active {% endif %}" href="{{ page.path | prepend:site.baseurl }}/contact.html">Contact</a>
                 </li>
               </ul>
             </nav>
@@ -118,8 +118,8 @@
 <script type="text/javascript" src="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.0/slick/slick.js"></script>
 
 
-        <script src="{{site.url}}/assets/js/plugins.js"></script>
-        <script src="{{site.url}}/assets/js/main.js"></script>
+        <script src="{{ page.path | prepend:site.baseurl }}/assets/js/plugins.js"></script>
+        <script src="{{ page.path | prepend:site.baseurl }}/assets/js/main.js"></script>
 
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/balance-text/3.2.0/balancetext.min.js" crossorigin="anonymous"></script>
 

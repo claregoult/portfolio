@@ -34,7 +34,7 @@
         <link rel="stylesheet" href="/portfoliocontact.php/assets/css/main.css">
 
 
-<!-- <link rel="stylesheet" type="text/css" href="/assets/slick/slick-theme.css"/> -->
+<!-- <link rel="stylesheet" type="text/css" href="/portfoliocontact.php/assets/slick/slick-theme.css"/> -->
 
 
 
@@ -63,8 +63,8 @@
       <div class="page-wrap">
         <header class="header">
           <div class="content-container clearfix">
-            <a href="/" class="logo">
-              <img src="/assets/img/logo_black.min.svg" alt="Clare Goult">
+            <a href="/portfoliocontact.php/" class="logo">
+              <img src="/portfoliocontact.php/assets/img/logo_black.min.svg" alt="Clare Goult">
             </a>
             <div class="menu-button-wrapper">
               <a href="#" class="menu-button" id="menuButton">
@@ -77,19 +77,19 @@
 
               <ul>
                 <li>
-                  <a class="" href="/work.html">Work</a>
+                  <a class="" href="/portfoliocontact.php/work.html">Work</a>
                 </li>
                 <li>
-                  <a class="" href="/about.html">About</a>
+                  <a class="" href="/portfoliocontact.php/about.html">About</a>
                 </li>
                 <li>
-                  <a class="" href="/services.html">Services</a>
+                  <a class="" href="/portfoliocontact.php/services.html">Services</a>
                 </li>
                 <li>
-                  <a class="" href="/blog/index.html">Blog</a>
+                  <a class="" href="/portfoliocontact.php/blog/index.html">Blog</a>
                 </li>
                 <li>
-                  <a class="" href="/contact.html">Contact</a>
+                  <a class="" href="/portfoliocontact.php/contact.html">Contact</a>
                 </li>
               </ul>
             </nav>
@@ -134,8 +134,8 @@
 <script type="text/javascript" src="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.0/slick/slick.js"></script>
 
 
-        <script src="/assets/js/plugins.js"></script>
-        <script src="/assets/js/main.js"></script>
+        <script src="/portfoliocontact.php/assets/js/plugins.js"></script>
+        <script src="/portfoliocontact.php/assets/js/main.js"></script>
 
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/balance-text/3.2.0/balancetext.min.js" crossorigin="anonymous"></script>
 
