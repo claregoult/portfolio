@@ -18,9 +18,7 @@
 
 <meta property="og:locale" content="en_GB" />
 
-{% if page.url == "/" %}
-<meta property="og:type" content="website" />
-{% elseif page.url == "blog" %}
+{% if page.url == "/" or page.url == "blog" %}
 <meta property="og:type" content="website" />
 {% else %}
 <meta property="og:type" content="article" />
