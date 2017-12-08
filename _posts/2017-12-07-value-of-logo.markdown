@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "What is the value of a logo?"
 author: "Clare"
 meta: "welcome to the thing with the thing"
-date:   2014-04-20 09:11:03
-categories: jekyll update
+date:   2017-12-07 09:11:03
+categories: logos
 ---
 
 <div class="content-container indented" markdown="1">
