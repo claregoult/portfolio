@@ -1,0 +1,50 @@
+.pricing-table {
+		background:darken(white, 90%);
+	color: white;
+	display: inline-block;
+	text-align: center;
+
+	& header {
+		margin-bottom: 40px;
+		background: $brandColour;
+		color:darken(white, 90%);
+	padding:40px 40px;
+	@include font-weight(normal);
+	}
+
+	& .plan-features {
+	padding:0 80px;
+
+		padding: 0;
+	& li {
+		margin-bottom: 20px;
+		list-style: none;
+		@include font-size($global-font-size / 1.25);
+
+		&:last-child {
+			margin-bottom: 40px;
+		}
+	}
+}
+	& .starting-price {
+		@include font-size($global-font-size * 0.75);
+		padding:0;
+		margin:0;
+	padding:0 80px;
+
+		margin-top:10px;
+		& .price-figure {
+			display:block;
+		@include font-weight(semi-bold);
+		@include font-size($global-font-size * 1.75);
+
+		}
+
+	}
+	& .plan-title {
+		@include font-size($global-font-size * 1.75);
+	@include font-weight(light);
+		padding:0;
+		margin:0;
+	}
+}
