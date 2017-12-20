@@ -171,8 +171,6 @@
     
       <li><span>07 Dec 2017</span> &raquo; <a href="/2017/12/07/value-of-logo.html">What is the value of a logo?</a></li>
     
-      <li><span>20 Apr 2014</span> &raquo; <a href="/2014/04/20/welcome-to-jekyll.html">Welcome to Jekyll!</a></li>
-    
 
 
   </ul>
