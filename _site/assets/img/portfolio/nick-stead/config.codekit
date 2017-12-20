@@ -24,16 +24,38 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/framed-pricing-list-half-size.jpg": {
+	"\/framed-pricing-list.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.08997e+06,
-		"inputAbbreviatedPath": "\/framed-pricing-list-half-size.jpg",
-		"outputAbbreviatedPath": "\/framed-pricing-list-half-size.jpg",
+		"initialSize": 1.00791e+06,
+		"inputAbbreviatedPath": "\/framed-pricing-list.jpg",
+		"outputAbbreviatedPath": "\/framed-pricing-list.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
+		},
+	"\/hybrid-series-old.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 678715,
+		"inputAbbreviatedPath": "\/hybrid-series-old.jpg",
+		"outputAbbreviatedPath": "\/hybrid-series-old.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/hybrid-series.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.20123e+06,
+		"inputAbbreviatedPath": "\/hybrid-series.jpg",
+		"outputAbbreviatedPath": "\/hybrid-series.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/moodboard.jpg": {
 		"fileType": 16384,
@@ -46,6 +68,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/nick-final-logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 143247,
+		"inputAbbreviatedPath": "\/nick-final-logo.jpg",
+		"outputAbbreviatedPath": "\/nick-final-logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/nick-stead-homepg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 912022,
+		"inputAbbreviatedPath": "\/nick-stead-homepg.jpg",
+		"outputAbbreviatedPath": "\/nick-stead-homepg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/nick-stead-thumbnail.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -56,6 +100,39 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/site-imagery-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 735584,
+		"inputAbbreviatedPath": "\/site-imagery-1.jpg",
+		"outputAbbreviatedPath": "\/site-imagery-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/site-imagery-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 796908,
+		"inputAbbreviatedPath": "\/site-imagery-2.jpg",
+		"outputAbbreviatedPath": "\/site-imagery-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/site-imagery-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 716907,
+		"inputAbbreviatedPath": "\/site-imagery-3.jpg",
+		"outputAbbreviatedPath": "\/site-imagery-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/sketchbook-process.jpg": {
 		"fileType": 16384,
@@ -111,6 +188,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/wireframe-mockup.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 220431,
+		"inputAbbreviatedPath": "\/wireframe-mockup.jpg",
+		"outputAbbreviatedPath": "\/wireframe-mockup.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/wireframes.jpg": {
 		"fileType": 16384,

@@ -1,5 +1,5 @@
 name: Clare Goult
-baseurl: "/portfolio/"
+baseurl: ""
 permalink: /:year/:month/:day/:title.html
 plugins:
   - jekyll-paginate
@@ -7,7 +7,7 @@ plugins:
   - jekyll-sitemap
 
 
-paginate: 1
+paginate: 10
 paginate_path: "/blog/page:num/"
 # highlighter: pygments.rb # or rouge or null
 markdown:    kramdown
