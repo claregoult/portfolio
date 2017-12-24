@@ -1,1 +1,1 @@
-Sitemap: /portfolio/sitemap.xml
+Sitemap: /sitemap.xml

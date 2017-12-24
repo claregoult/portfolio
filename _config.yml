@@ -1,5 +1,5 @@
 name: Clare Goult
-baseurl: /portfolio
+baseurl: ""
 permalink: /:year/:month/:day/:title
 plugins:
   - jekyll-paginate
