@@ -1041,7 +1041,7 @@ video {
     padding: 15px; } }
 
 .alternate {
-  background: transparent;
+  background: none;
   background-color: none;
   border: none;
   box-shadow: none;
@@ -1050,7 +1050,7 @@ video {
   border-bottom: 1px solid #f8d43c;
   padding-bottom: 5px; }
   .alternate hover {
-    background: transparent;
+    background: none;
     background-color: none;
     border: none;
     box-shadow: none;

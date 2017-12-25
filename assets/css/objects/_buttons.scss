@@ -31,7 +31,7 @@
 
 
 .alternate {
-    background: transparent;
+    background: none;
     background-color: none;
     border: none;
     box-shadow: none;
@@ -41,7 +41,7 @@
     padding-bottom: 5px;
 
     & hover {
-    background: transparent;
+    background: none;
     background-color: none;
     border: none;
     box-shadow: none;
@@ -49,7 +49,6 @@
     color: black;
     border-bottom: 1px solid black;
     padding-bottom: 5px;
-
 
     }
 }
