@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is the value of a logo? | Blog | Clare Goult | Branding &amp; Web Designer
+title:  "What is the value of a logo? | Clare Goult | Branding &amp; Web Designer"
 twitterimg: /assets/img/twitter/blog-large.jpg"
 author: "Clare"
 meta: "Blog post"
