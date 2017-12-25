@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "What is the value of a logo?"
+title:  "What is the value of a logo? | Blog | Clare Goult | Branding &amp; Web Designer
+twitterimg: /assets/img/twitter/blog-large.jpg"
 author: "Clare"
-meta: "welcome to the thing with the thing"
-date:   2017-12-24 09:11:03
+meta: "Blog post"
+date:   2017-12-23 09:11:03
 categories: logos
 ---
 
