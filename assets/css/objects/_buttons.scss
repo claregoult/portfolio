@@ -32,6 +32,7 @@
 
 .alternate {
     background: transparent;
+    background-color: none;
     border: none;
     box-shadow: none;
     padding: 0;
@@ -41,7 +42,7 @@
 
     & hover {
     background: transparent;
-    background-color: transparent;
+    background-color: none;
     border: none;
     box-shadow: none;
     padding: 0;
