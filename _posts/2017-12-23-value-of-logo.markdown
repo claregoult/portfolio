@@ -24,7 +24,7 @@ Well… not exactly.
 To clear up the confusion about logos we have to take a step back. Those famous logos that you see and think are simple were the product of sometimes years of work, certainly many months. Much of that time probably wasn’t even designing the logo.
 
 # Understanding The Logo Design Process
-If you go to a reputable design agency like [Landor](https://landor.com/), [Pentagram](https://pentagram.com/) or [Blind](https://blind.com/) then you'll hear them talk about strategy. You might walk in expecting a logo and wonder why they're talking about your business goals or your vision for the company.
+If you go to a reputable design agency like [Landor](https://landor.com/), [Pentagram](https://www.pentagram.com/) or [Blind](https://blind.com/) then you'll hear them talk about strategy. You might walk in expecting a logo and wonder why they're talking about your business goals or your vision for the company.
 
 The reason good designers do strategy is that it allows them to really get to know your company and the reasons behind the choice to create a logo or redesign an existing one. You go in telling them you just need a logo and end up realising, well, you want one ecause it would make people see you as professional and increase your sales.
 
