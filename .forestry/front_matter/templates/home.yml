@@ -1,0 +1,33 @@
+---
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: seotitle
+  label: Seotitle
+  type: text
+  hidden: false
+  default: ''
+- name: twitterimg
+  label: Twitterimg
+  type: file
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: textarea
+  hidden: false
+  default: ''
+- name: lang
+  label: Lang
+  type: text
+  hidden: false
+  default: ''
