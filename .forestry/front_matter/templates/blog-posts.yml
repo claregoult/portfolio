@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/delete-me.md
 hide_body: false
 fields:
 - name: layout
