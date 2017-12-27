@@ -59,7 +59,14 @@ Wouldn't you rather spend your hard-earned money knowing that you actually got a
 It's a sad truth that on many of the cheap bidding websites people aren't always upstanding citizens. Oftentimes, work can be found that is stolen, blatantly copied with only the most minor changes and the designer might not even bother reading the brief you supplied. If they spend all day cranking out logo after logo then they probably don't bother to read the briefs at a certain point. It becomes less about quality and more about churning out products. Unfortunately for you, if your logo is of poor quality then your customers won't see that professional, high-end image you were going for. Neither will you be too happy if you recieve a letter to inform you that you're being sued for plagiarism or copyright infringement. That cheap logo suddenly morphs into a mightmare.
 
 <h2 class="section-title"> What To Do </h2>
-Ask designers for advice. Tell them how much you have to spend and if that's a reasonable price. If it isn't then perhaps save up until you can afford it. Make sure they know what they're talking about by asking them questions. What kind of process do they use? Do they do any kind of research? If they start asking you about timelines, budgets, your business problems then chances are you'll end up with something much better in the long run than if you saved yourself a few pounds now to get the 'bargain'. As a bonus, they'd also help you potentially solve the problems you're having.
+Ask designers for advice. Tell them how much you have to spend and ask if that's a reasonable price. If it isn't then perhaps you can save up some money until you can afford it. Make sure they know what they're talking about by asking them questions. A couple of good questions to ask are:
+
+- What kind of process do they use?
+- Do you have a blog? (This allows you to see what kind of content they produce and likely examples of their work, process or client feedback)
+
+If they start asking you about timelines, budgets, your business problems, and the reasons why you want a new logo or website then chances are you'll end up with something much better in the long-run than if you saved yourself a few pounds now to get the 'bargain'. As a bonus, they'd also help you potentially solve the problems you're having.
+
+Good luck with your logo-ing endeavours.
 
 
 
