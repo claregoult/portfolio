@@ -1,6 +1,5 @@
 .pricing-table {
-		background:darken(white, 90%);
-	color: white;
+box-shadow: 1px 0px 5px rgba(0,0,0,0.2);
 	display: inline-block;
 	text-align: center;
 
@@ -29,8 +28,7 @@
 	& .starting-price {
 		@include font-size($global-font-size * 0.75);
 		padding:0;
-		margin:0;
-	padding:0 80px;
+		// margin:0 80px;
 
 		margin-top:10px;
 		& .price-figure {
@@ -47,4 +45,11 @@
 		padding:0;
 		margin:0;
 	}
+}
+
+
+.pricing-table-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 20px;
 }
