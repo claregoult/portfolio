@@ -1040,7 +1040,7 @@ video {
     font-size: 13.33333px;
     padding: 15px; } }
 
-.button.alternate {
+a.alternate {
   background: none;
   background-color: none;
   border: none;
@@ -1048,8 +1048,9 @@ video {
   padding: 0;
   color: #999;
   border-bottom: 1px solid #f8d43c;
-  padding-bottom: 5px; }
-  .button.alternate hover {
+  padding-bottom: 5px;
+  text-decoration: none; }
+  a.alternate:hover, a.alternate:active, a.alternate:focus {
     background: none;
     background-color: none;
     border: none;
@@ -1057,7 +1058,8 @@ video {
     padding: 0;
     color: black;
     border-bottom: 1px solid black;
-    padding-bottom: 5px; }
+    padding-bottom: 5px;
+    text-decoration: none; }
 
 .work-page .main-content {
   position: relative; }

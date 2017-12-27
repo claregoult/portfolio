@@ -30,7 +30,7 @@
 
 
 
-.button.alternate {
+a.alternate {
     background: none;
     background-color: none;
     border: none;
@@ -39,8 +39,9 @@
     color: #999;
     border-bottom: 1px solid #f8d43c;
     padding-bottom: 5px;
+    text-decoration: none;
 
-    & hover {
+@include attention(){
     background: none;
     background-color: none;
     border: none;
@@ -49,6 +50,6 @@
     color: black;
     border-bottom: 1px solid black;
     padding-bottom: 5px;
-
-    }
+    text-decoration: none;  
+}
 }
