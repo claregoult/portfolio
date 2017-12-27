@@ -162,11 +162,11 @@
 @import "objects/cta";
 @import "objects/avatar";
 @import "objects/image-overlay";
+@import "objects/buttons";
 @import "objects/grid";
 @import "objects/form";
 @import "objects/pricing-table";
 @import "objects/pagination";
-@import "objects/buttons";
 
 
 
@@ -404,34 +404,3 @@ font-size: 25px;
 @import "trumps/clearfix";
 @import "trumps/type";
 // @import "shame";
-
-
-
-.alternate {
-    background: none;
-    background-color: none;
-    border: none;
-    box-shadow: none;
-    padding: 0;
-    color: #999;
-    border-bottom: 1px solid #f8d43c;
-    padding-bottom: 5px;
-    text-direction: none;
-
-@include attention(){
-    text-direction: none;  
-    background: none;
-    background-color: none;
-    border: none;
-    box-shadow: none;
-    padding: 0;
-    color: red;
-    border-bottom: 1px solid black;
-    padding-bottom: 5px;
-}
-}
-
-
-a {
-	color: red;
-}
