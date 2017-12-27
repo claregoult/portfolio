@@ -25,7 +25,7 @@ Well… not exactly.
 
 To clear up the confusion about logos we have to take a step back. Those famous logos that you see and think are simple were the product of sometimes years of work, certainly many months. Much of that time probably wasn’t even designing the logo.
 
-# Understanding The Logo Design Process
+<h2 class="section-title"> Understanding The Logo Design Process</h2>
 If you go to a reputable design agency like [Landor](https://landor.com/), [Pentagram](https://www.pentagram.com/) or [Blind](https://blind.com/) then you'll hear them talk about strategy. You might walk in expecting a logo and wonder why they're talking about your business goals or your vision for the company.
 
 The reason good designers do strategy is that it allows them to really get to know your company and the reasons behind the choice to create a logo or redesign an existing one. You go in telling them you just need a logo and end up realising, well, you want one ecause it would make people see you as professional and increase your sales.
@@ -40,13 +40,13 @@ Of course, that's an exaggerated example but I'm sure you get the point I was tr
 
 Another factor is how the logo is going to be used. Will it be legible on a billboard as well as a pen? Maybe you'd require different variations and configurations for multiple uses. Type can begin to become difficult to read at smaller sizes and might require the letters spacing out a bit, whereas when it's on a billboard it might need tighening up.
 
-# You get what you pay for
+<h2 class="section-title"> You get what you pay for </h2>
 
 I hope you see where I'm trying to go with this. Yes, a logo might cost more money but can you realistically see someone doing months of user and market research, interviews, surveys and hundreds of design concepts for £5? Or even £100?
 
 Here's what usually happens at cheaper price points. Let's say you go on a popular site used for projects. You write that you want a logo and people will give you a quote. You can be as descriptive as you'd like. Maybe you just write 'I need a logo for my tattoo business' and that's it. How does the designer then accurately come up with a price? They don't know your goals, your pain points and ultimately what you need. You might think you need a logo because nobody's going into the store or onto your website. A logo isn't going to solve that but the person on the bidding site doesn't know that because they never asked. They just see that you need a logo and hey, it'll only take them ten minutes to try a few typefaces, maybe add a tattooing iron. And so, you get your logo. Did it solve the problem you had? Not so much. In the end, all you really ended up doing is wasting your time and money.
 
-# Quality Over Quantity
+<h2 class="section-title"> Quality Over Quantity </h2>
 Let's assume that person above who did your logo always charges £5 a logo. They spend all day doing logo after logo. Surely that makes them a logo designer, right? I mean, they'd have to be good with all the time they've spent creating logos? Their portfolio has 1,000 of them so they have to know their stuff.
 
 Perhaps. The cost of living in some places is vastly different to others. A small village in Africa might require only a hundred pounds to live whereas if you lived in London it's considerably more than that just on your rent, let alone bills, food, business expenses. Does that mean the African designer is better or worse because they charge a vastly different rate? Not necessarily. But, at the same time, if you need to do hundreds of logos to keep the lights on on then that doesn't seem very healthy, and neither does it provide you with the timeframe needed to adequately do due-diligence.
@@ -55,10 +55,10 @@ Many designers offering cheap work are self-taught. Nothing wrong with being sel
 
 Wouldn't you rather spend your hard-earned money knowing that you actually got a quality service? That your time spent with the designer or team does indeed solve the problems you were having? Sure, in the short term you've spent more, perhaps quite a lot more, but in a few years time when you've got more customers than you know what to do with rather than nearing bankrupcy isn't that more preferable?
 
-# Watch Out For Scams
+<h2 class="section-title"> Watch Out For Scams </h2>
 It's a sad truth that on many of the cheap bidding websites people aren't always upstanding citizens. Oftentimes, work can be found that is stolen, blatantly copied with only the most minor changes and the designer might not even bother reading the brief you supplied. If they spend all day cranking out logo after logo then they probably don't bother to read the briefs at a certain point. It becomes less about quality and more about churning out products. Unfortunately for you, if your logo is of poor quality then your customers won't see that professional, high-end image you were going for. Neither will you be too happy if you recieve a letter to inform you that you're being sued for plagiarism or copyright infringement. That cheap logo suddenly morphs into a mightmare.
 
-# What To Do
+<h2 class="section-title"> What To Do </h2>
 Ask designers for advice. Tell them how much you have to spend and if that's a reasonable price. If it isn't then perhaps save up until you can afford it. Make sure they know what they're talking about by asking them questions. What kind of process do they use? Do they do any kind of research? If they start asking you about timelines, budgets, your business problems then chances are you'll end up with something much better in the long run than if you saved yourself a few pounds now to get the 'bargain'. As a bonus, they'd also help you potentially solve the problems you're having.
 
 
