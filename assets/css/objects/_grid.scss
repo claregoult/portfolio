@@ -170,10 +170,9 @@ margin-left:auto;
 }
 }
 
-
 @include mq($from:tablet) {
 .services-grid {
-margin-bottom: 80px;
+//margin-bottom: 80px;
 }
 
 }

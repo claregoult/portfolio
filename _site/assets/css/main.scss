@@ -166,6 +166,7 @@
 @import "objects/grid";
 @import "objects/form";
 @import "objects/pricing-table";
+@import "objects/blog";
 @import "objects/pagination";
 
 
@@ -399,6 +400,9 @@ font-size: 25px;
 
 	font-size: 50px;
 }	
+}
+.post .section-title {
+	margin:auto;
 }
 
 @import "trumps/clearfix";

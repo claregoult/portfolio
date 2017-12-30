@@ -14,15 +14,16 @@ is_post: false
 <h1 class="page-title"> {{page.title}} </h1>
 <div class="blog-posts">
   {% for post in paginator.posts %}
+<article class="blog-post">
 <section class="section">
 
       <h2 class="section-title">
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
       </h2>
-      <span class="post-meta">{{ post.date | date_to_long_string }}</span>
-
-      {{ post.excerpt }}
-    </section>
+      <span class="post-meta meta-date">{{ post.date | date_to_long_string }}</span>
+      <a class="post-link" href="{{ post.url | relative_url }}"><img class="post-meta meta-masthead" src="/assets/img/blog/masthead/{{ post.masthead }}" /></a>
+     <p>{{ post.content | strip_html | truncatewords:45 }}</p>
+          </section></article>
   {% endfor %}
 
   <div class="pagination">

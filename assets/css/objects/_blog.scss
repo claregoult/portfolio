@@ -1,0 +1,15 @@
+
+.post-meta {
+	margin-bottom:5px;	
+	display:inline-block;
+}
+.meta-date {
+	color: lighten(black,60%);
+	@include font-size(16px);
+}
+.blog-post {
+	margin-bottom: 60px;
+	&:last-of-type {
+		margin-bottom: 0;
+	}
+}

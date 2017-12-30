@@ -3,6 +3,12 @@
 <html class="no-js" lang="en-GB" prefix="og: http://ogp.me/ns#">
   
     <head>
+
+
+{% if page.url == "/404.html" %}
+    <meta http-equiv="refresh" content="5; url=/">
+{% endif %}
+      
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>{{page.seotitle}}</title>
@@ -48,16 +54,6 @@
 
         <link rel="manifest" href="site.webmanifest">
         <link rel="apple-touch-icon" href="/icon.png">
-
-
-
-
-
-
-
-
-
-
 
 
 <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
@@ -181,7 +177,6 @@
             <li><a href="https://facebook.com/goultDesign">Facebook</a></li>
             <li><a href="https://behance.net/goultDesign">Behance</a></li>
             <li><a href="https://instagram.com/goultDesign">Instagram</a></li>
-            <li><a href="mailto:letstalk@goult.design">Email</a></li>
           </ul>
         </footer>
 

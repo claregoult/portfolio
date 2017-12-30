@@ -1,12 +1,18 @@
 ---
 layout: default
 ---
+<article class="blog-post">
 
 <div class="content-container indented">
-<h1 class="post-title">{{page.title}}</h1>
-<p class="meta text-center">{{ page.date | date_to_string }}</p>
+
+      <h2 class="section-title">
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ page.title | escape }}</a>
+      </h2>
+      <span class="post-meta meta-date">{{ page.date | date_to_long_string }}</span>
+      <a class="post-link" href="{{ post.url | relative_url }}"><img class="post-meta meta-masthead" src="http://localhost:3000/assets/img/blog/masthead/{{ page.masthead }}" /></a>
 </div>
 
-<div class="post">
+<div class="post post-body">
 {{ content }}
 </div>
+</article>
