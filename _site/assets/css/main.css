@@ -1528,12 +1528,12 @@ legend.section-title {
       text-decoration: none;
       padding-bottom: 5px;
       border-bottom: 1px solid black; }
-    .primary-navigation a a.active {
+    .primary-navigation a.active {
       transition: border .25s ease;
       text-decoration: none;
       padding-bottom: 5px;
       border-bottom: 1px solid black; }
-      .primary-navigation a a.active:hover, .primary-navigation a a.active:active, .primary-navigation a a.active:focus {
+      .primary-navigation a.active:hover, .primary-navigation a.active:active, .primary-navigation a.active:focus {
         transition: border .25s ease;
         text-decoration: none;
         padding-bottom: 5px;

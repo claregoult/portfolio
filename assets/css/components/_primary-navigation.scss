@@ -147,7 +147,7 @@ body {
 			border-bottom:1px solid black;
 		}
 
-& a.active {
+&.active {
 			transition:border .25s ease;
 			text-decoration: none;
 			padding-bottom:5px;
