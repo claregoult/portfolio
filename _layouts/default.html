@@ -125,7 +125,7 @@
 
               <ul>
                 <li>
-                  <a class="{% if page.url == '/work' %} active {% endif %}" href="{{site.baseurl}}/work">Work</a>
+                  <a class="{% if page.slug == 'work' %} active {% endif %}{% if page.url == '/work' %} active {% endif %}" href="{{site.baseurl}}/work">Work</a>
                 </li>
                 <li>
                   <a class="{% if page.url == '/about' %} active {% endif %}" href="{{site.baseurl}}/about">About</a>
@@ -134,7 +134,7 @@
                   <a class="{% if page.url == '/services' %} active {% endif %}" href="{{site.baseurl}}/services">Services</a>
                 </li>
                 <li>
-                  <a class="{% if page.url == '/blog' %} active {% endif %}" href="{{site.baseurl}}/blog">Blog</a>
+                  <a class="{% if page.url == '/blog/' %} active {% endif %}{% if page.url == '/blog' %} active {% endif %}" href="{{site.baseurl}}/blog">Blog</a>
                 </li>
                 <li>
                   <a class="{% if page.url == '/contact' %} active {% endif %}" href="{{site.baseurl}}/contact">Contact</a>
