@@ -113,11 +113,37 @@ lang: en_GB
 <div class="section">
 					<div class="content-container ">
 
-<nav class="articles"><div class="contain"><ul><li><div class="content">
-<a href="http://focuslabllc.com/digest/2016-recap"></a><p class="categories">
-Culture, Business</p><h3>2016 Recap</h3><h6>By Erik</h6></div></li><li><div class="content">
-<a href="http://focuslabllc.com/digest/brand-strategy-a-birds-eye-view"></a><p class="categories">
-Branding, Strategy</p><h3>Brand Strategy: A Bird’s Eye View</h3><h6>By Summer Teal Simpson Hitch</h6></div></li></ul></div></nav>
+
+
+
+      <h2 class="section-title">
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </h2>
+
+
+<nav class="articles">
+	<div class="contain">
+		<ul>
+
+
+  {% for post in site.posts limit:2 %}
+<li>
+<div class="content">
+<a href="{{ post.url | relative_url }}"></a>
+<p class="categories">
+{{ post.categories }}</p>
+<h3>{{ post.title | escape }}</h3>
+<h6>By {{ post.author }}</h6>
+</div>	
+</li>
+
+
+{% endfor %}
+
+</ul>
+</div>
+</nav>
+
 </div>
 </div>
 
@@ -139,4 +165,4 @@ Branding, Strategy</p><h3>Brand Strategy: A Bird’s Eye View</h3><h6>By Summer 
 			</section>
 				</div></section><!--resolve-->
 			
-			
+	
