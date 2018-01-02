@@ -9,21 +9,21 @@
 	],
 "creatorBuild": "26148",
 "files": {
+	"\/blog\/masthead\/value-of-a-logo.jpg": {
+		"ft": 16384,
+		"iS": 1295307,
+		"oA": 0,
+		"oAP": "\/blog\/masthead\/value-of-a-logo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/claregoult.jpg": {
 		"ft": 16384,
 		"iS": 56130,
 		"oA": 0,
 		"oAP": "\/claregoult.jpg",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"q": 95
-		},
-	"\/claregoult2.jpg": {
-		"ft": 16384,
-		"iS": 68206,
-		"oA": 0,
-		"oAP": "\/claregoult2.jpg",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
@@ -39,6 +39,178 @@
 		"opt": 1,
 		"q": 95
 		},
+	"\/favicons\/android-icon-192x192.png": {
+		"ft": 32768,
+		"iS": 5325,
+		"oA": 0,
+		"oAP": "\/favicons\/android-icon-192x192.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicons\/apple-touch-icon-114x114.png": {
+		"ft": 32768,
+		"iS": 5660,
+		"oA": 0,
+		"oAP": "\/favicons\/apple-touch-icon-114x114.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicons\/apple-touch-icon-120x120.png": {
+		"ft": 32768,
+		"iS": 5194,
+		"oA": 0,
+		"oAP": "\/favicons\/apple-touch-icon-120x120.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicons\/apple-touch-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 6386,
+		"oA": 0,
+		"oAP": "\/favicons\/apple-touch-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicons\/apple-touch-icon-152x152.png": {
+		"ft": 32768,
+		"iS": 8961,
+		"oA": 0,
+		"oAP": "\/favicons\/apple-touch-icon-152x152.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicons\/apple-touch-icon-180x180.png": {
+		"ft": 32768,
+		"iS": 11268,
+		"oA": 0,
+		"oAP": "\/favicons\/apple-touch-icon-180x180.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicons\/apple-touch-icon-57x57.png": {
+		"ft": 32768,
+		"iS": 2037,
+		"oA": 0,
+		"oAP": "\/favicons\/apple-touch-icon-57x57.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicons\/apple-touch-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 2441,
+		"oA": 0,
+		"oAP": "\/favicons\/apple-touch-icon-72x72.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicons\/apple-touch-icon-76x76.png": {
+		"ft": 32768,
+		"iS": 3047,
+		"oA": 0,
+		"oAP": "\/favicons\/apple-touch-icon-76x76.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicons\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 2037,
+		"oA": 0,
+		"oAP": "\/favicons\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicons\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 1206,
+		"oA": 0,
+		"oAP": "\/favicons\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicons\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 1561,
+		"oA": 0,
+		"oAP": "\/favicons\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicons\/favicon-64x64.png": {
+		"ft": 32768,
+		"iS": 2172,
+		"oA": 0,
+		"oAP": "\/favicons\/favicon-64x64.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicons\/favicon-96x96.png": {
+		"ft": 32768,
+		"iS": 3123,
+		"oA": 0,
+		"oAP": "\/favicons\/favicon-96x96.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicons\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/favicons\/favicon.ico",
+		"oF": 0
+		},
+	"\/favicons\/favicon.png": {
+		"ft": 32768,
+		"iS": 1561,
+		"oA": 0,
+		"oAP": "\/favicons\/favicon.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/grunge-effect.png": {
 		"ft": 32768,
 		"iS": 93284,
@@ -50,25 +222,35 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/logo-process.jpg": {
+		"ft": 16384,
+		"iS": 552412,
+		"oA": 0,
+		"oAP": "\/logo-process.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/logo_black.min.svg": {
 		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
+		"miP": 1,
+		"oA": 0,
 		"oAP": "\/logo_black.min.svg",
-		"oF": 0,
+		"oF": 1,
 		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
+		"plM": 8053055455,
+		"prP": 1
 		},
 	"\/logo_black.svg": {
 		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
+		"miP": 1,
+		"oA": 0,
 		"oAP": "\/logo_black.svg",
-		"oF": 0,
+		"oF": 1,
 		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
+		"plM": 8053055455,
+		"prP": 1
 		},
 	"\/nick-stead-avatar.jpg": {
 		"ft": 16384,
@@ -87,7 +269,7 @@
 		"oAP": "\/portfolio\/nick-stead\/colours.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/portfolio\/nick-stead\/content-strategy.jpg": {
@@ -97,17 +279,37 @@
 		"oAP": "\/portfolio\/nick-stead\/content-strategy.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/portfolio\/nick-stead\/framed-pricing-list-half-size.jpg": {
+	"\/portfolio\/nick-stead\/framed-pricing-list.jpg": {
 		"ft": 16384,
-		"iS": 279151,
+		"iS": 1007914,
 		"oA": 0,
-		"oAP": "\/portfolio\/nick-stead\/framed-pricing-list-half-size.jpg",
+		"oAP": "\/portfolio\/nick-stead\/framed-pricing-list.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/portfolio\/nick-stead\/hybrid-series-old.jpg": {
+		"ft": 16384,
+		"iS": 632275,
+		"oA": 0,
+		"oAP": "\/portfolio\/nick-stead\/hybrid-series-old.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/portfolio\/nick-stead\/hybrid-series.jpg": {
+		"ft": 16384,
+		"iS": 1128519,
+		"oA": 0,
+		"oAP": "\/portfolio\/nick-stead\/hybrid-series.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/portfolio\/nick-stead\/moodboard.jpg": {
@@ -117,7 +319,27 @@
 		"oAP": "\/portfolio\/nick-stead\/moodboard.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/portfolio\/nick-stead\/nick-final-logo.jpg": {
+		"ft": 16384,
+		"iS": 99926,
+		"oA": 0,
+		"oAP": "\/portfolio\/nick-stead\/nick-final-logo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/portfolio\/nick-stead\/nick-stead-homepg.jpg": {
+		"ft": 16384,
+		"iS": 839464,
+		"oA": 0,
+		"oAP": "\/portfolio\/nick-stead\/nick-stead-homepg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/portfolio\/nick-stead\/nick-stead-thumbnail.jpg": {
@@ -127,7 +349,37 @@
 		"oAP": "\/portfolio\/nick-stead\/nick-stead-thumbnail.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/portfolio\/nick-stead\/site-imagery-1.jpg": {
+		"ft": 16384,
+		"iS": 670171,
+		"oA": 0,
+		"oAP": "\/portfolio\/nick-stead\/site-imagery-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/portfolio\/nick-stead\/site-imagery-2.jpg": {
+		"ft": 16384,
+		"iS": 752337,
+		"oA": 0,
+		"oAP": "\/portfolio\/nick-stead\/site-imagery-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/portfolio\/nick-stead\/site-imagery-3.jpg": {
+		"ft": 16384,
+		"iS": 684213,
+		"oA": 0,
+		"oAP": "\/portfolio\/nick-stead\/site-imagery-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/portfolio\/nick-stead\/sketchbook-process.jpg": {
@@ -137,7 +389,7 @@
 		"oAP": "\/portfolio\/nick-stead\/sketchbook-process.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/portfolio\/nick-stead\/stationary-mockup.jpg": {
@@ -147,7 +399,7 @@
 		"oAP": "\/portfolio\/nick-stead\/stationary-mockup.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/portfolio\/nick-stead\/type-specimen.jpg": {
@@ -157,7 +409,7 @@
 		"oAP": "\/portfolio\/nick-stead\/type-specimen.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/portfolio\/nick-stead\/user-flow.jpg": {
@@ -167,7 +419,7 @@
 		"oAP": "\/portfolio\/nick-stead\/user-flow.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/portfolio\/nick-stead\/website-imagery.jpg": {
@@ -177,7 +429,17 @@
 		"oAP": "\/portfolio\/nick-stead\/website-imagery.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/portfolio\/nick-stead\/wireframe-mockup.jpg": {
+		"ft": 16384,
+		"iS": 161867,
+		"oA": 0,
+		"oAP": "\/portfolio\/nick-stead\/wireframe-mockup.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/portfolio\/nick-stead\/wireframes.jpg": {
@@ -187,7 +449,67 @@
 		"oAP": "\/portfolio\/nick-stead\/wireframes.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/twitter\/about-large.jpg": {
+		"ft": 16384,
+		"iS": 1386681,
+		"oA": 0,
+		"oAP": "\/twitter\/about-large.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/twitter\/blog-large.jpg": {
+		"ft": 16384,
+		"iS": 1355001,
+		"oA": 0,
+		"oAP": "\/twitter\/blog-large.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/twitter\/case-study-large.jpg": {
+		"ft": 16384,
+		"iS": 1409728,
+		"oA": 0,
+		"oAP": "\/twitter\/case-study-large.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/twitter\/contact-large.jpg": {
+		"ft": 16384,
+		"iS": 1370696,
+		"oA": 0,
+		"oAP": "\/twitter\/contact-large.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/twitter\/services-large.jpg": {
+		"ft": 16384,
+		"iS": 1385917,
+		"oA": 0,
+		"oAP": "\/twitter\/services-large.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/twitter\/work-large.jpg": {
+		"ft": 16384,
+		"iS": 1413435,
+		"oA": 0,
+		"oAP": "\/twitter\/work-large.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/work-by-NordWood-Themes-unslpash.jpg": {
