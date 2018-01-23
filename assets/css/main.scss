@@ -1,129 +1,7 @@
-/********************************** 
- *
- *
- * To Do List:
- *
- * /////////////////////////////1. Add contact form styling
- * /////////////////////////////2. Styling for tablet
- * /////////////////////////////3. Replace text for services on home pg and add imgs for other slides
- * /////////////////////////////4. Rewrite the FAQ to reflect new direction regarding hosting
- * 5. Consider (alternate) logo in nav on fixed scroll / mobile
- *
- *
- **********************************/ 
 
+@import "generic/bourbon/bourbon";
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@import "0-tools/bourbon/bourbon";
-
-// @import "config/reset";
-
-// @import "config/slick";
-
-
-// @import "config/global";
-// @import "config/header";
-// @import "config/grid";
-// @import "config/portfolio";
-
-// @import "config/typography";
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+@import "generic/slick";
 
 
 
@@ -166,6 +44,7 @@
 @import "objects/grid";
 @import "objects/form";
 @import "objects/pricing-table";
+@import "objects/blog";
 @import "objects/pagination";
 
 
@@ -399,6 +278,9 @@ font-size: 25px;
 
 	font-size: 50px;
 }	
+}
+.post .section-title {
+	margin:auto;
 }
 
 @import "trumps/clearfix";
