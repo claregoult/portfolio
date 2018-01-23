@@ -14,10 +14,10 @@
 <loc>/contact</loc>
 </url>
 <url>
-<loc>/blog/</loc>
+<loc>/index%20copy</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>/blog/</loc>
 </url>
 <url>
 <loc>/work/nick-stead</loc>
@@ -27,5 +27,9 @@
 </url>
 <url>
 <loc>/work</loc>
+</url>
+<url>
+<loc>/index.html</loc>
+<lastmod>2018-01-23T16:06:18+00:00</lastmod>
 </url>
 </urlset>
