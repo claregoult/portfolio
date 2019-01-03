@@ -8,7 +8,7 @@ author: Clare
 meta: What makes a logo valuable? Does expensive mean it's better? Let's find out!
 description: What makes a logo valuable? Does expensive mean it's better? Let's find
   out!
-date: 2017-12-23 09:11:03 +0000
+date: 2019-02-03 09:11:03 +0000
 categories: logos
 ---
 
