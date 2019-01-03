@@ -7,11 +7,12 @@
 		"uuidString": "6628F098-CF60-4C11-AB06-DDAAE798DA66"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26680",
 "files": {
 	"\/blog\/masthead\/value-of-a-logo.jpg": {
 		"ft": 16384,
 		"iS": 1295307,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/blog\/masthead\/value-of-a-logo.jpg",
 		"oF": 0,
@@ -22,6 +23,7 @@
 	"\/claregoult.jpg": {
 		"ft": 16384,
 		"iS": 56130,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/claregoult.jpg",
 		"oF": 0,
@@ -32,6 +34,7 @@
 	"\/desk-by-Brennan-Burling-unsplash.jpg": {
 		"ft": 16384,
 		"iS": 148164,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/desk-by-Brennan-Burling-unsplash.jpg",
 		"oF": 0,
@@ -225,6 +228,7 @@
 	"\/logo-process.jpg": {
 		"ft": 16384,
 		"iS": 552412,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/logo-process.jpg",
 		"oF": 0,
@@ -255,6 +259,7 @@
 	"\/nick-stead-avatar.jpg": {
 		"ft": 16384,
 		"iS": 9060,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/nick-stead-avatar.jpg",
 		"oF": 0,
@@ -265,6 +270,7 @@
 	"\/portfolio\/nick-stead\/colours.jpg": {
 		"ft": 16384,
 		"iS": 143484,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/portfolio\/nick-stead\/colours.jpg",
 		"oF": 0,
@@ -275,6 +281,7 @@
 	"\/portfolio\/nick-stead\/content-strategy.jpg": {
 		"ft": 16384,
 		"iS": 108578,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/portfolio\/nick-stead\/content-strategy.jpg",
 		"oF": 0,
@@ -285,6 +292,7 @@
 	"\/portfolio\/nick-stead\/framed-pricing-list.jpg": {
 		"ft": 16384,
 		"iS": 1007914,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/portfolio\/nick-stead\/framed-pricing-list.jpg",
 		"oF": 0,
@@ -295,6 +303,7 @@
 	"\/portfolio\/nick-stead\/hybrid-series-old.jpg": {
 		"ft": 16384,
 		"iS": 632275,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/portfolio\/nick-stead\/hybrid-series-old.jpg",
 		"oF": 0,
@@ -305,6 +314,7 @@
 	"\/portfolio\/nick-stead\/hybrid-series.jpg": {
 		"ft": 16384,
 		"iS": 1128519,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/portfolio\/nick-stead\/hybrid-series.jpg",
 		"oF": 0,
@@ -315,6 +325,7 @@
 	"\/portfolio\/nick-stead\/moodboard.jpg": {
 		"ft": 16384,
 		"iS": 444184,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/portfolio\/nick-stead\/moodboard.jpg",
 		"oF": 0,
@@ -325,6 +336,7 @@
 	"\/portfolio\/nick-stead\/nick-final-logo.jpg": {
 		"ft": 16384,
 		"iS": 99926,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/portfolio\/nick-stead\/nick-final-logo.jpg",
 		"oF": 0,
@@ -335,6 +347,7 @@
 	"\/portfolio\/nick-stead\/nick-stead-homepg.jpg": {
 		"ft": 16384,
 		"iS": 839464,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/portfolio\/nick-stead\/nick-stead-homepg.jpg",
 		"oF": 0,
@@ -345,6 +358,7 @@
 	"\/portfolio\/nick-stead\/nick-stead-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 175919,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/portfolio\/nick-stead\/nick-stead-thumbnail.jpg",
 		"oF": 0,
@@ -355,6 +369,7 @@
 	"\/portfolio\/nick-stead\/site-imagery-1.jpg": {
 		"ft": 16384,
 		"iS": 670171,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/portfolio\/nick-stead\/site-imagery-1.jpg",
 		"oF": 0,
@@ -365,6 +380,7 @@
 	"\/portfolio\/nick-stead\/site-imagery-2.jpg": {
 		"ft": 16384,
 		"iS": 752337,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/portfolio\/nick-stead\/site-imagery-2.jpg",
 		"oF": 0,
@@ -375,6 +391,7 @@
 	"\/portfolio\/nick-stead\/site-imagery-3.jpg": {
 		"ft": 16384,
 		"iS": 684213,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/portfolio\/nick-stead\/site-imagery-3.jpg",
 		"oF": 0,
@@ -385,6 +402,7 @@
 	"\/portfolio\/nick-stead\/sketchbook-process.jpg": {
 		"ft": 16384,
 		"iS": 142240,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/portfolio\/nick-stead\/sketchbook-process.jpg",
 		"oF": 0,
@@ -395,6 +413,7 @@
 	"\/portfolio\/nick-stead\/stationary-mockup.jpg": {
 		"ft": 16384,
 		"iS": 215134,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/portfolio\/nick-stead\/stationary-mockup.jpg",
 		"oF": 0,
@@ -405,6 +424,7 @@
 	"\/portfolio\/nick-stead\/type-specimen.jpg": {
 		"ft": 16384,
 		"iS": 204679,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/portfolio\/nick-stead\/type-specimen.jpg",
 		"oF": 0,
@@ -415,6 +435,7 @@
 	"\/portfolio\/nick-stead\/user-flow.jpg": {
 		"ft": 16384,
 		"iS": 86253,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/portfolio\/nick-stead\/user-flow.jpg",
 		"oF": 0,
@@ -425,6 +446,7 @@
 	"\/portfolio\/nick-stead\/website-imagery.jpg": {
 		"ft": 16384,
 		"iS": 168827,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/portfolio\/nick-stead\/website-imagery.jpg",
 		"oF": 0,
@@ -435,6 +457,7 @@
 	"\/portfolio\/nick-stead\/wireframe-mockup.jpg": {
 		"ft": 16384,
 		"iS": 161867,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/portfolio\/nick-stead\/wireframe-mockup.jpg",
 		"oF": 0,
@@ -445,6 +468,7 @@
 	"\/portfolio\/nick-stead\/wireframes.jpg": {
 		"ft": 16384,
 		"iS": 180649,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/portfolio\/nick-stead\/wireframes.jpg",
 		"oF": 0,
@@ -455,6 +479,7 @@
 	"\/twitter\/about-large.jpg": {
 		"ft": 16384,
 		"iS": 1386681,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/twitter\/about-large.jpg",
 		"oF": 0,
@@ -465,6 +490,7 @@
 	"\/twitter\/blog-large.jpg": {
 		"ft": 16384,
 		"iS": 1355001,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/twitter\/blog-large.jpg",
 		"oF": 0,
@@ -475,6 +501,7 @@
 	"\/twitter\/case-study-large.jpg": {
 		"ft": 16384,
 		"iS": 1409728,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/twitter\/case-study-large.jpg",
 		"oF": 0,
@@ -485,6 +512,7 @@
 	"\/twitter\/contact-large.jpg": {
 		"ft": 16384,
 		"iS": 1370696,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/twitter\/contact-large.jpg",
 		"oF": 0,
@@ -495,6 +523,7 @@
 	"\/twitter\/services-large.jpg": {
 		"ft": 16384,
 		"iS": 1385917,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/twitter\/services-large.jpg",
 		"oF": 0,
@@ -505,6 +534,7 @@
 	"\/twitter\/work-large.jpg": {
 		"ft": 16384,
 		"iS": 1413435,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/twitter\/work-large.jpg",
 		"oF": 0,
@@ -515,6 +545,7 @@
 	"\/work-by-NordWood-Themes-unslpash.jpg": {
 		"ft": 16384,
 		"iS": 418123,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/work-by-NordWood-Themes-unslpash.jpg",
 		"oF": 0,
@@ -531,7 +562,8 @@
 	"creationDate": 535253280,
 	"displayValue": "img",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-facepalm"
+	"iconImageName": "\/favicons\/apple-touch-icon-120x120.png",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -539,6 +571,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -1102,6 +1135,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -2329,6 +2366,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
