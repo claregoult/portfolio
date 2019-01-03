@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  What is the value of a logo?
+title: What is the value of a logo?
 seotitle: A logo's value | Clare Goult | Branding &amp; Web Designer
-twitterimg: /assets/img/twitter/blog-large.jpg
+twitterimg: "/assets/img/twitter/blog-large.jpg"
 masthead: value-of-a-logo.jpg
 author: Clare
 meta: What makes a logo valuable? Does expensive mean it's better? Let's find out!
-description: What makes a logo valuable? Does expensive mean it's better? Let's find out!
-date:   2017-12-23 09:11:03
+description: What makes a logo valuable? Does expensive mean it's better? Let's find
+  out!
+date: 2017-12-23 09:11:03 +0000
 categories: logos
 ---
 
